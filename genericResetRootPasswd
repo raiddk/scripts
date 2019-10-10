@@ -1,0 +1,4 @@
+#Operating System: Works on majority of Linux OSes
+#Misc Notes: Possibly recreate the script to take a username to reset instead of one user. If so, rename to genericResetUserPasswd.
+
+sudo passwd root
